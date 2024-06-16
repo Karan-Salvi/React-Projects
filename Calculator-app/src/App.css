@@ -1,0 +1,20 @@
+.button_container{
+  width: 200px;
+}
+.myButton{
+  width: 50px;
+  height: 40px;
+  margin: 4px;
+}
+
+.container{
+  width: 200px;
+  border: 1px solid black;
+  margin: 50px;
+  padding: 15px;
+}
+
+.displayBox{
+  height: 2rem;
+  margin: 5px;
+}
